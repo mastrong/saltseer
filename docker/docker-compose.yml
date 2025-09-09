@@ -6,9 +6,9 @@ services:
     container_name: saltseer_postgres
     restart: always
     environment:
-      POSTGRES_DB: saltseer
-      POSTGRES_USER: saltseer
-      POSTGRES_PASSWORD: saltseer
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - "5432:5432"
     volumes:
@@ -31,4 +31,3 @@ services:
 
 volumes:
   postgres_data:
-
