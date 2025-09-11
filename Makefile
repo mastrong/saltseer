@@ -1,11 +1,12 @@
 # Makefile for Django project "main" using uv + Docker
 
 # Default settings
-DJANGO_SETTINGS_MODULE ?= config.settings.dev
+DJANGO_SETTINGS_MODULE ?= main.settings.dev
 PYTHON := uv run python
 MANAGE := DJANGO_SETTINGS_MODULE=$(DJANGO_SETTINGS_MODULE) $(PYTHON) src/manage.py
 
 # Docker
+# DOCKER_COMPOSE := docker compose
 DOCKER_COMPOSE := docker compose
 DOCKER_PROJECT := saltseer  # name your compose project
 

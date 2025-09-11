@@ -1,0 +1,28 @@
+{
+  "name": "saltseer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+  "build-css": "sass src/static/scss/style.scss src/static/css/style.css",
+  "watch-css": "sass --watch src/static/scss/style.scss src/static/css/style.css"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mastrong/saltseer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mastrong/saltseer/issues"
+  },
+  "homepage": "https://github.com/mastrong/saltseer#readme",
+  "devDependencies": {
+    "sass": "^1.92.1"
+  }
+}
