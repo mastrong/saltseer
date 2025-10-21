@@ -1,0 +1,3752 @@
+[
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2016",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2022",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "windows",
+    "version": "Windows Server 2019",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Ubuntu Server 22.04",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "RHEL 9.2",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "azure"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "vmware"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "AlmaLinux 8.8",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Rocky Linux 9.3",
+    "hypervisor": "physical"
+  },
+  {
+    "type": "linux",
+    "version": "Debian 12",
+    "hypervisor": "physical"
+  }
+]

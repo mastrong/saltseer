@@ -1,0 +1,302 @@
+[
+  {
+    "jid": "20251021185547900423",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547159370",
+    "module_function": "pkg.install",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547350688",
+    "module_function": "service.restart",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547279019",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547373002",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547992324",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547896810",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547342337",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547475825",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547437662",
+    "module_function": "service.restart",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547975792",
+    "module_function": "user.add",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547435834",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547796155",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547434577",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547112206",
+    "module_function": "cmd.run",
+    "changes": 1,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547582708",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547500087",
+    "module_function": "service.restart",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547382105",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547243336",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547228476",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547449381",
+    "module_function": "state.apply",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547442716",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547433061",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547590738",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547336931",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547919066",
+    "module_function": "service.restart",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547683544",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547479624",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547396560",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547389923",
+    "module_function": "user.add",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547147124",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547801667",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547430189",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547354632",
+    "module_function": "state.apply",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547867364",
+    "module_function": "pkg.install",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547663855",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547311955",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547315469",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547945908",
+    "module_function": "state.apply",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547348985",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547193121",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547798684",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547345332",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547859283",
+    "module_function": "test.version",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547473227",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547375994",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547203161",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547252753",
+    "module_function": "test.version",
+    "changes": 1,
+    "success": 1
+  },
+  {
+    "jid": "20251021185547146041",
+    "module_function": "cmd.run",
+    "changes": 0,
+    "success": 0
+  },
+  {
+    "jid": "20251021185547130497",
+    "module_function": "state.apply",
+    "changes": 1,
+    "success": 1
+  }
+]
