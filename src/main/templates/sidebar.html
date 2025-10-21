@@ -1,0 +1,123 @@
+{% load static %}
+
+<nav class="d-flex flex-column flex-shrink-0 p-3 bg-mint-cream-50 h-100 sidebar">
+  <h5 class="pb-2 border-bottom text-light">Menu</h5>
+
+  <!-- Top menu -->
+  <ul class="nav nav-pills flex-column mb-auto">
+
+    <!-- Dashboard -->
+    <li class="nav-item">
+      <a href="{% url 'dashboard' %}"
+         class="nav-link list-group-item-action {% if request.path == '/' or request.path == '/dashboard/' %}active bg-dark text-light{% else %}link-dark{% endif %}">
+        <i class="bi bi-bar-chart me-2"></i> Dashboard
+      </a>
+    </li>
+
+    <!-- Reports -->
+    <li>
+      <a href="{% url 'reports' %}"
+         class="nav-link list-group-item-action {% if '/reports' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+        <i class="bi bi-paperclip me-2"></i> Reports
+      </a>
+    </li>
+
+    <!-- Tools -->
+    <li>
+      <a class="nav-link list-group-item-action d-flex justify-content-between align-items-center {% if '/jobs' in request.path or '/certs' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}"
+         data-bs-toggle="collapse" href="#submenu2" role="button" aria-expanded="false"
+         aria-controls="submenu2">
+        <span><i class="bi bi-wrench me-2"></i> Tools</span>
+        <i class="bi bi-caret-down-fill rotate"></i>
+      </a>
+      <div class="collapse {% if '/jobs' in request.path or '/certs' in request.path %}show{% endif %}" id="submenu2">
+        <ul class="list-unstyled fw-normal small ps-3">
+          <li>
+            <a href="/jobs/"
+               class="nav-link list-group-item-action {% if '/jobs' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+              Salt Jobs
+            </a>
+          </li>
+          <li>
+            <a href="/certs/"
+               class="nav-link list-group-item-action {% if '/certs' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+              Certificates
+            </a>
+          </li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+  <!-- Bottom menu (Settings) -->
+  <ul class="nav nav-pills flex-column mt-auto pt-3 border-top border-dark">
+    <li>
+      <a class="nav-link list-group-item-action d-flex justify-content-between align-items-center {% if '/profile' in request.path or '/security' in request.path or '/notifications' in request.path or '/admin/connections' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}"
+         data-bs-toggle="collapse" href="#submenu1" role="button" aria-expanded="false" aria-controls="submenu1">
+        <span><i class="bi bi-gear me-2"></i> Settings</span>
+        <i class="bi bi-caret-down-fill rotate" aria-hidden="true"></i>
+      </a>
+
+      <div class="collapse {% if '/profile' in request.path or '/security' in request.path or '/notifications' in request.path or '/admin/connections' in request.path %}show{% endif %}" id="submenu1">
+        <ul class="list-unstyled fw-normal small ps-3">
+
+          <!-- Profile -->
+          <li>
+            <a href="/profile/"
+               class="nav-link list-group-item-action {% if '/profile' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+              Profile
+            </a>
+          </li>
+
+          <!-- Security -->
+          <li>
+            <a href="/security/"
+               class="nav-link list-group-item-action {% if '/security' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+              Security
+            </a>
+          </li>
+
+          <!-- Notifications -->
+          <li>
+            <a href="/notifications/"
+               class="nav-link list-group-item-action {% if '/notifications' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+              Notifications
+            </a>
+          </li>
+
+          <!-- Connections Dropdown -->
+          <li>
+            <a class="nav-link list-group-item-action d-flex justify-content-between align-items-center {% if '/admin/connections' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}"
+               data-bs-toggle="collapse" href="#submenuConnections" role="button" aria-expanded="false"
+               aria-controls="submenuConnections">
+              <span>Connections</span>
+              <i class="bi bi-caret-down-fill rotate"></i>
+            </a>
+            <div class="collapse {% if '/admin/connections' in request.path %}show{% endif %}" id="submenuConnections">
+              <ul class="list-unstyled fw-normal small ps-3">
+
+                <!-- Salt Masters -->
+                <li>
+                  <a href="#"
+                     class="nav-link list-group-item-action {% if '/admin/connections/saltconnection' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+                    <i class="bi bi-plug-fill me-2"></i> Salt Masters
+                  </a>
+                </li>
+
+                <!-- Databases -->
+                <li>
+                  <a href="#"
+                     class="nav-link list-group-item-action {% if '/admin/connections/databaseconnection' in request.path %}active bg-dark text-light{% else %}link-dark{% endif %}">
+                    <i class="bi bi-database-fill me-2"></i> Databases
+                  </a>
+                </li>
+
+              </ul>
+            </div>
+          </li>
+
+        </ul>
+      </div>
+    </li>
+  </ul>
+</nav>

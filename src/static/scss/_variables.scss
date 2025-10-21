@@ -1,0 +1,43 @@
+// 🎨 Master palette: background + text
+$colors: (
+  "mint-cream": (#f7fcf0, #000000),
+  "pale-mint": (#e0f3db, #000000),
+  "soft-green": (#ccebc5, #000000),   // custom-only (not mapped to Bootstrap role)
+  "seafoam-green": (#a8ddb5, #000000),
+  "bright-teal": (#7bccc4, #000000),
+  "sky-aqua": (#4eb3d3, #000000),
+  "ocean-blue": (#2b8cbe, #000000),
+  "deep-teal": (#0868ac, #ffffff),
+  "navy-blue": (#084081, #ffffff)
+);
+
+// 🔗 Map Bootstrap roles → palette keys
+// Note: "soft-green" is excluded here (still available in custom utilities)
+$theme-map: (
+  "primary": "ocean-blue",
+  "secondary": "bright-teal",
+  "success": "seafoam-green",
+  "info": "sky-aqua",
+  "warning": "pale-mint",
+  "danger": "navy-blue",
+  "light": "mint-cream",
+  "dark": "deep-teal"
+);
+
+// 🚀 Build Bootstrap’s $theme-colors (backgrounds only)
+$theme-colors: ();
+@each $role, $color-name in $theme-map {
+  $theme-colors: map-merge(
+    $theme-colors,
+    ($role: nth(map-get($colors, $color-name), 1))
+  );
+}
+
+// 🚀 Build $theme-text-colors (foreground text only)
+$theme-text-colors: ();
+@each $role, $color-name in $theme-map {
+  $theme-text-colors: map-merge(
+    $theme-text-colors,
+    ($role: nth(map-get($colors, $color-name), 2))
+  );
+}

@@ -5,13 +5,82 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>SaltSeer</title>
-
+  <script src="https://cdn.jsdelivr.net/npm/htmx.org@2.0.7/dist/htmx.min.js" integrity="sha384-ZBXiYtYQ6hJ2Y0ZNoYuI+Nq5MqWBr+chMrS/RkXpNzQCApHEhOt2aY8EJgqwHLkJ" crossorigin="anonymous"></script>
+  <script src="{% static 'js/bootstrap.bundle.min.js' %}"></script>
+  <!-- Bootstrap CSS (compiled with your SCSS overrides) -->
   <link rel="stylesheet" href="{% static 'css/style.css' %}">
+  <link rel="stylesheet" href="{% static 'bootstrap-icons/bootstrap-icons.css' %}">
+
 </head>
-<body>
-<header>f</header>
-<main>f</main>
-<aside>f</aside>
-<footer>f</footer>
+<body class="bg-img">
+
+  <div class="container-fluid min-vh-100 d-flex flex-column">
+    <!-- Header -->
+    <div class="row">
+      <header class="col-12 bg-navy-blue-50">
+        {% include "header.html" %}
+      </header>
+    </div>
+
+    <!-- Main content row -->
+<div class="row flex-grow-1">
+  <!-- Sidebar (only visible on large screens) -->
+  <nav class="col-lg-2 d-none d-lg-block p-3 sidebar bg-mint-cream-75">
+    {% include "sidebar.html" %}
+  </nav>
+
+  <!-- Offcanvas toggle (only visible on small screens) -->
+  <div class="d-lg-none">
+    {% include "sidebar_offcanvas.html" %}
+  </div>
+
+  <!-- Main (flexible content) -->
+      <main class="col-12 {% if show_aside %}col-lg-8{% else %}col-lg-10{% endif %} bg-mint-cream-75 p-3 main">
+        {% block content %}
+        <!-- default placeholder if no block is provided -->
+        {% endblock %}
+      </main>
+
+      <!-- Aside -->
+    {% if show_aside %}
+      <aside class="col-12 col-lg-2 bg-mint-cream-75 p-3">
+        {% block aside %}{% endblock %}
+      </aside>
+    {% endif %}
+</div>
+
+<!-- Footer -->
+  <div class="row">
+      <footer class="col-12 bg-navy-blue-50">
+        {% include "footer.html" %}
+      </footer>
+    </div>
+  </div>
+<script>
+document.addEventListener("DOMContentLoaded", setActiveSidebarLink);
+document.body.addEventListener("htmx:afterSwap", setActiveSidebarLink);
+
+function setActiveSidebarLink() {
+  const currentPath = window.location.pathname;
+
+  document.querySelectorAll(".sidebar .nav-link").forEach(link => {
+    const href = link.getAttribute("href");
+    const isActive = href === currentPath;
+
+    link.classList.toggle("active", isActive);
+
+    if (isActive) {
+      // expand parent collapsible if needed
+      const collapseParent = link.closest(".collapse");
+      if (collapseParent) {
+        collapseParent.classList.add("show");
+        const toggle = document.querySelector(`[href="#${collapseParent.id}"]`);
+        if (toggle) toggle.setAttribute("aria-expanded", "true");
+      }
+    }
+  });
+}
+</script>
+
 </body>
 </html>

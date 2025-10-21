@@ -1,0 +1,65 @@
+// -------------------------------------
+// Custom utilities built from $colors
+// Requires: _variables.scss
+// -------------------------------------
+@use "variables" as *;
+
+// Background utilities (with opacity variants)
+@each $name, $pair in $colors {
+  $bg: nth($pair, 1);
+  $txt: nth($pair, 2);
+
+  .bg-#{$name} {
+    background-color: $bg !important;
+    color: $txt !important;
+  }
+
+  @each $percent in (25, 50, 75) {
+    .bg-#{$name}-#{$percent} {
+      background-color: rgba(red($bg), green($bg), blue($bg), $percent / 100) !important;
+      color: $txt !important;
+    }
+  }
+}
+
+// Text utilities from descriptive colors
+@each $name, $pair in $colors {
+  $txt: nth($pair, 2);
+  .text-#{$name} {
+    color: $txt !important;
+  }
+}
+
+// Text utilities from role-based colors
+@each $role, $txt in $theme-text-colors {
+  .text-#{$role} {
+    color: $txt !important;
+  }
+}
+
+// Button utilities (descriptive names)
+@each $name, $pair in $colors {
+  $bg: nth($pair, 1);
+  $txt: nth($pair, 2);
+
+  .btn-#{$name} {
+    background-color: $bg;
+    border-color: $bg;
+    color: $txt;
+    font-weight: 600;
+
+    &:hover {
+      background-color: darken($bg, 7%);
+      border-color: darken($bg, 7%);
+      color: $txt;
+    }
+
+    &:active,
+    &:focus {
+      background-color: darken($bg, 12%);
+      border-color: darken($bg, 12%);
+      color: $txt;
+      box-shadow: 0 0 0 0.2rem rgba($bg, 0.4);
+    }
+  }
+}
