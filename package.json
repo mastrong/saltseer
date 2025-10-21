@@ -7,10 +7,9 @@
     "test": "tests"
   },
   "scripts": {
-  "build-css": "sass src/static/scss/style.scss src/static/css/style.css",
-  "watch-css": "sass --watch src/static/scss/style.scss src/static/css/style.css"
-},
-
+    "build-css": "sass src/static/scss/style.scss src/static/css/style.css",
+    "watch-css": "sass --watch src/static/scss/style.scss src/static/css/style.css"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mastrong/saltseer.git"
@@ -24,5 +23,9 @@
   "homepage": "https://github.com/mastrong/saltseer#readme",
   "devDependencies": {
     "sass": "^1.92.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1"
   }
 }
