@@ -10,7 +10,7 @@
   <!-- Bootstrap CSS (compiled with your SCSS overrides) -->
   <link rel="stylesheet" href="{% static 'css/style.css' %}">
   <link rel="stylesheet" href="{% static 'bootstrap-icons/bootstrap-icons.css' %}">
-
+  {% block extrahead %}{% endblock %}
 </head>
 <body class="bg-img">
 
@@ -81,6 +81,6 @@ function setActiveSidebarLink() {
   });
 }
 </script>
-
+{% block extrajs %}{% endblock %}
 </body>
 </html>
